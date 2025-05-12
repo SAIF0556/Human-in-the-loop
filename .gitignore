@@ -1,0 +1,8 @@
+
+venv/
+.env/
+ENV/
+.venv/ 
+# Node.js dependencies
+dist/
+node_modules/ 
